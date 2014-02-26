@@ -1,0 +1,8 @@
+{
+  "name": "mini-livereload",
+  "version": "0.0.1",
+  "dependencies": {
+    "tiny-lr": "*",
+    "debug": "*"
+  }
+}
