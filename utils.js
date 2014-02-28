@@ -17,7 +17,7 @@ var debug = require('debug')('mini-livereload:watch');
  * Ignored directories.
  */
 
-var ignore = ['node_modules', '.git', 'components'];
+var ignore = ['node_modules', '.git', 'components', 'build'];
 
 /**
  * Accepted extentions.
